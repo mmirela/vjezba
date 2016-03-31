@@ -1,0 +1,2 @@
+# vjezba
+pocetak 
